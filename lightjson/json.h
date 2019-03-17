@@ -68,7 +68,7 @@ class Json {
 
   const j_object ToObject() const;
 
-  // TODO override operator[] for arrays and objects
+  // TODO overload operator[] for arrays and objects
 
  private:
   std::string feedin_string;
