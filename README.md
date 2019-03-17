@@ -5,6 +5,8 @@ A simple JSON library written in C++ following the [tutorial in C by miloyip](ht
 
 This project is mainly for self-practicing in C++ language and might not be rigorous in either grammer or C++ programming paradigm. It only implement part of the parsing functionality for the moment.
 
+The source code for the lib is stored in dir `lightjson`
+
 ## Usage Example
 
 Suppose `document` is a raw JSON string
