@@ -9,7 +9,7 @@ The source code for the lib is stored in dir `lightjson`
 
 ## Usage Example
 
-Suppose `document` is a raw JSON string
+Suppose `document` is a raw Json string
 
 ```c++
 #include <exception>
